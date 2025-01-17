@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Light-And-Dark_Mode/static/css/main.60e10bf9.css",
+    "main.js": "/Light-And-Dark_Mode/static/js/main.1a2ccb90.js",
+    "index.html": "/Light-And-Dark_Mode/index.html",
+    "main.60e10bf9.css.map": "/Light-And-Dark_Mode/static/css/main.60e10bf9.css.map",
+    "main.1a2ccb90.js.map": "/Light-And-Dark_Mode/static/js/main.1a2ccb90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e10bf9.css",
+    "static/js/main.1a2ccb90.js"
+  ]
+}
